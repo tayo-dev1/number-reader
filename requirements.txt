@@ -1,0 +1,9 @@
+colorama
+matplotlib
+numpy
+torch
+torchvision
+tqdm
+opencv-python
+pygame
+Pillow
